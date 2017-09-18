@@ -299,11 +299,12 @@
 
 }
 
-mh{
+#mh{
 	padding-top:20px;
 	font-size:50px;
 	color:black;
 	font-family:century gothic;
+}
 
 #q{
 	width:10px;
