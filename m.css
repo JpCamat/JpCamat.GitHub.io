@@ -296,7 +296,15 @@
 #back{
         Background-color:#444444;
 	
+
 }
+
+#mh{
+	padding-top:20px;
+	font-size:30px;
+	color:white;
+	font-family:century gothic;
+
 #q{
 	width:10px;
 	height:10px;
